@@ -1,0 +1,12 @@
+﻿Build started 5/6/2014 6:28:21 PM.
+Project "\\psf\Home\Desktop\435\jeremypc\zompiler\zompiler.vcxproj" on node 2 (Build target(s)).
+_FlexGenerator:
+  Generating lexical analyser...
+  cmd.exe /C "C:\Users\jeremychen\AppData\Local\Temp\tmp57a17c9263aa4254abd5094d67bdf816.cmd"
+  flex.exe -oscanner.cpp -Pzompiler -Cem   zompiler.l
+\\psf\Home\Desktop\435\jeremypc\zompiler\FlexBison.targets(55,5): error MSB3721: The command "flex.exe -oscanner.cpp -Pzompiler -Cem   zompiler.l" exited with code 1.
+Done Building Project "\\psf\Home\Desktop\435\jeremypc\zompiler\zompiler.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.32
